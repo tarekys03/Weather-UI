@@ -1,0 +1,6 @@
+uvicorn
+scipy
+numpy
+streamlit
+requests
+pandas
