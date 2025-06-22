@@ -4,7 +4,7 @@ import requests
 import numpy as np
 from io import BytesIO
 
-API_URL = "http://localhost:8000/predict/"
+API_URL = "https://weather-api-ltyb.onrender.com//predict/"
 
 st.title("🌦️ Weather Fault Classifier")
 
